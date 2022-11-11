@@ -1,14 +1,15 @@
 body {
     background-color: #FFFFFF;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
     font-family: 'Montserrat';
     margin: 0;
     padding: 0;
     height: 100%;
     width: 100%;
+}
+
+.parent-container {
+    display: flex;
+    flex-direction: column;
 }
 
 .welcome {
@@ -44,6 +45,13 @@ body {
     text-align: center;
     justify-content: center;
     width: 75%
+}
+
+.text-section {
+    text-align: left;
+    margin: 4%;
+    justify-self: left;
+    float: left;
 }
 
 .box-shadow--8dp {
