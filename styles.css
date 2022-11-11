@@ -81,6 +81,11 @@ h2 {
     font-size: 3rem;
 }
 
+.sketch {
+    width: 30%;
+    height: 30%;
+}
+
 @media only screen and (max-width: 668px) {   
     #logo {
         height: 3rem;
