@@ -1,5 +1,5 @@
 body {
-    background-color: #E2E2E2;
+    background-color: #FFFFFF;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@ body {
 
 .welcome {
     background-image: linear-gradient(rgba(0, 0, 0, 0.01),
-    rgba(0, 0, 0, 0.5)), url("./resources/surf_scene.jpeg");
+    rgba(0, 0, 0, 0.5)); 
     background-position: center;
     background-repeat: no-repeat;
     height: 90vh;
@@ -64,12 +64,12 @@ button:hover {
 }
 
 h1 {
-    color: #F7F7F7;
+    color: #FFFFFF;
     font-size: 3rem;
 }
 
 h2 {
-    color: #C70000;
+    color: #9AF186;
     font-size: 3rem;
 }
 
