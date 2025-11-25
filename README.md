@@ -1,3 +1,1 @@
-# iterativehandin
-
-site hosted at https://iterativeemergecareer.netlify.app/
+# Free AI at api.airforce
